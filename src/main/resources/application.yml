@@ -1,0 +1,10 @@
+logging.level.org.javers: debug
+
+spring.datasource:
+  driverClassName: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://localhost:33306/javers_documents
+  username: root
+  password: toor
+
+
+
